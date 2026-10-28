@@ -7,9 +7,3 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
-
-/* background: #46467a; */
-.bg-hero {
-    background: linear-gradient(90deg, rgba(70, 70, 122, 1) 0%, rgba(91, 91, 130, 1) 100%);
-
-}
